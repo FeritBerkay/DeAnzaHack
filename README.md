@@ -1,6 +1,6 @@
 # DeAnzaHack
 
-For the Hacklathino event at De Anza College, we developed a Morse Code password retriever project. The event was focused on hardware projects, and our team's goal was to create a tool that could encode and decode passwords using Morse Code. This project uses an Arduino, a push button, and an LED to handle the input, encoding, and display of passwords in Morse Code.
+For the Hacklathon event at De Anza College, we developed a Morse Code password retriever project. The event was focused on hardware projects, and our team's goal was to create a tool that could encode and decode passwords using Morse Code. This project uses an Arduino, a push button, and an LED to handle the input, encoding, and display of passwords in Morse Code.
 
 ### Project Description:
 
